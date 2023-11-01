@@ -1,0 +1,51 @@
+.admin-main {
+    height: calc(100vh - 64px) !important;
+    overflow: auto !important;
+}
+.aside-logo {
+    padding: 20px !important;
+
+    color: #000000 !important;
+    font-size: 20px !important;
+}
+
+.layout-header {
+    border-bottom: 1px solid black !important;
+}
+
+.header-box {
+    background-color: #001529 !important;
+
+    padding-right: 24px !important;
+
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.logout {
+    background: #ff0000 !important;
+
+    color: #fff !important;
+
+    position: absolute !important;
+    bottom: 0 !important;
+}
+.tools_box {
+    display: flex !important;
+    align-items: center !important;
+    gap: 30px !important;
+}
+.badge {
+    padding: 1.5px 3px !important;
+
+    cursor: pointer !important;
+}
+.sup {
+    width: 30px !important;
+    height: 20px !important;
+    padding: 0 4px !important;
+
+    font-size: 10px !important;
+
+    font-weight: 300 !important;
+}

@@ -1,0 +1,34 @@
+.header {
+    width: 100%;
+
+    padding: 20px 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: #1a202c;
+}
+.logo {
+    color: #8a2be2;
+}
+.btn {
+    padding: 6px 20px !important;
+
+    background-color: #8a2be2 !important;
+}
+
+.footer {
+    width: 100%;
+
+    padding: 20px 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #1a202c;
+}
+.text-center {
+    color: #8a2be2;
+}

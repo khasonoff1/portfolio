@@ -1,0 +1,35 @@
+.cards {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 10px !important;
+}
+.card {
+    width: 240px !important;
+    min-height: 250px !important;
+    border-radius: 10px !important;
+    padding: 15px 25px !important;
+
+    display: flex !important;
+    align-items: center !important;
+
+    cursor: pointer !important;
+    
+    background-color: #8a2be2 !important;
+}
+.card-box svg {
+    width: 30px !important;
+    height: 30px !important;
+    color: white !important;
+}
+.card-title{
+    color: white !important;
+    font-size: 32px !important;
+}
+
+.card-desc{
+    color: white !important;
+    font-size: 22px !important;
+}
+
