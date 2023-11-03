@@ -25,7 +25,7 @@ const DashboardPage = () => {
     return (
         <Fragment>
             <h1>Dashboard:</h1>
-            <br/>
+            <br />
             <div className="cards">
                 <div className="card">
                     <div className="card-box">
